@@ -15,7 +15,7 @@ ta sẽ deploy nó lên amplify gen 2.Dưới đây là demo:
 {{< youtube id="7Re9lXNVakE" >}}
 
 ### Nội dung
- 1. [Giới thiệu](1-introduction/_index.md)
+ 1. [Giới thiệu](./1-introduction/_index.md)
  2. [Cài đặt môi trường dev local](2-set-up-develop-environment/_index.md)
  3. [Khởi tạo project](3-set-up-project/_index.md)
  4. [Xây dựng web app](4-build-app/_index.md)
