@@ -3,6 +3,7 @@ title = 'Giới thiệu'
 date = 2024-08-29T11:59:53+07:00
 weight = 1
 pre = "<b>1. </b>"
+chapter = false
 +++
 Trong bài workshop này, chúng ta sẽ cùng tìm hiểu về cách sử dụng amplify cùng với 1 framework FE để build 1 con Trello fullstack web cơ bản có đầy đủ chức năng về CRUD.
 
