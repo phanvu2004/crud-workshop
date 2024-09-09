@@ -1,8 +1,6 @@
 +++
 title = 'Build và deploy 1 fullstack web app bằng amplify gen 2 và angular 17'
 date = 2024-08-29T12:03:00+07:00
-chapter = false
-weight = 1
 +++
 
 # Build và deploy Trello fullstack web app cơ bản bằng amplify gen 2 và angular 
