@@ -5,7 +5,7 @@ chapter = false
 weight = 1
 +++
 
-# Build và deploy fullstack web app bằng amplify gen 2 và angular 
+# Build và deploy Trello fullstack web app cơ bản bằng amplify gen 2 và angular 
 
 
 ### Tổng quan
