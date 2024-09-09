@@ -1,6 +1,8 @@
 baseURL = 'https://example.org/'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-learn'
+relativeURLs = true
+canonifyURLs = true
 defaultContentLanguage = "vi"
 languageCode = 'vi'
 [outputs]
