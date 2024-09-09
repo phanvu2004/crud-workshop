@@ -1,0 +1,22 @@
+baseURL = 'https://example.org/'
+title = 'My New Hugo Site'
+theme = 'hugo-theme-learn'
+defaultContentLanguage = "vi"
+languageCode = 'vi'
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+[params]
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "workshop"
+  showVisitedLinks = true
+  disableLandingPageButton = true 
+[Languages]
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Study Group"
+identifier = "AWS Study Group FB"
+url = "https://www.facebook.com/groups/awsstudygroupfcj/"
+weight = 20
+[Languages.vi.params]
+title = "Build và deploy 1 fullstack web app sử dụng amplify gen 2 và angular"
+weight = 1
+languageName = "Tiếng Việt"
