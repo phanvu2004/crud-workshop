@@ -4,9 +4,9 @@ date = 2024-08-30T16:30:01+07:00
 weight = 2
 pre = "<b>2. </b>"
 +++ 
-Trong phần này, chúng ta sẽ cùng cài đặt môi trường dev cho local.
-## Nội dung
+Trong phần này, chúng ta sẽ cùng nhau đi setup môi trường phát triển để  xây dựng ứng dụng.
 
-  1. [Cài đặt aws cho môi trường local](2.1-aws-local/_index.md)
-  2. [Cài đặt angular cli](2.2-install-angular-cli/_index.md)
+## Nội dung
+1. [Cài đặt AWS cho môi trường local](2.1-aws-local/_index.md)
+2. [Cài đặt Angular CLI](2.2-install-angular-cli/_index.md)
 

@@ -1,20 +1,20 @@
 +++
-title = "Cài đặt Aws cho môi trường local"
+title = "Cài đặt AWS cho môi trường local"
 draft = false
 date = 2024-08-30T16:38:38+07:00
 weight = 1
 pre = "<b>2.1 </b>"
 +++
-### Prerequisites
- + terminal(để chạy các câu lệnh aws cli)
- + account aws.
+### Chuẩn bị
+ + Terminal (để chạy các câu lệnh AWS CLI)
+ + Tài khoản AWS.
 
 {{% notice info %}}
-Nếu bạn chưa có tài khoản aws, có thể tham khảo cách tạo tài khoản tại đây: https://000001.awsstudygroup.com/1-create-new-aws-account 
-1{{% /notice %}}
+Nếu bạn chưa có tài khoản AWS, có thể tham khảo cách tạo tài khoản tại [đây](https://000001.awsstudygroup.com/1-create-new-Aws-account/)
+{{% /notice %}}
 
 ### Kích hoạt IAM Identity Center và AWS Organization.
-**Bước 1:** Đăng nhập vào tài khoản root aws hoặc IAM có quyền admin.
+**Bước 1:** ĐăNG nhập vào tài khoản root AWS hoặc IAM có quyền admin.
 + Tìm kiếm IAM Identity Center trên thanh tìm kiếm
 + Click vào IAM Identity Center.
 
@@ -81,14 +81,14 @@ Nhập thông tin
 {{< tabs >}}
 {{% tab name="Terminal" %}}
 > SSO session name (Recommended): amplify-admin  
-> SSO start URL: <START SESSION URL>  
-> SSO region: <your-region>  
-> SSO registration scopes [sso:account:access]: <leave blank>  
+> SSO start URL: \<START SESSION URL>  
+> SSO region: \<Region của bạn>   
+> SSO registration scopes [sso:account:access]: \<để mặc định>  
 > Attempting to automatically open the SSO authorization page in your default browser.  
 > If the browser does not open or you wish to use a different device to authorize this request, open the following URL:  
 > https://device.sso.us-east-2.amazonaws.com/  
 > Then enter the code:  
-> SOME-CODE  
+> \<Code>
 {{% /tab %}}  
 {{< /tabs >}}
 Nhập thông tin xong, trình duyệt sẽ tự động hỏi về authentication

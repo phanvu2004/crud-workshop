@@ -6,7 +6,7 @@ pre = '5. '
 weight = 5
 +++
 Ở phần này, chúng ta sẽ tìm hiểu cách Deploy 1 trang web lên amplify nhé.
-### Prerequisites
+### Chuẩn bị
 - aws account
 - github account
 - git CLI

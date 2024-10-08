@@ -5,8 +5,8 @@ draft = false
 pre = '4.2.5.4 '
 weight = 4
 +++
-Bây giờ, chúng ta sẽ thực hiện build chức năng cuối cùng, xóa column và xóa card.
-**Bước 1:**  trong crud service, triển khai hàm deleteInstance như sau: 
+
+**Bước 1:** Trong crud service, triển khai hàm deleteInstance như sau: 
 {{< tabs groupId="deleteCruds" >}}
     {{% tab name="src/app/home/crud.service.ts" %}}
 ``` typescript
