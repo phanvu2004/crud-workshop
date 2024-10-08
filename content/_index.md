@@ -11,8 +11,8 @@ Trong bài workshop này, chúng ta sẽ build từ 1 con Trello fullstack web a
 
 ### Nội dung
 1. [Giới thiệu](1-introduction)
-2. [Cài đặt môi trường dev local](2-set-up-develop-environment/_index.md)
-3. [Khởi tạo project](3-set-up-project/_index.md)
-4. [Xây dựng web app](4-build-app/_index.md)
-5. [Deploy App lên Amplify](./5-deployAmplify/_index.md)
-6. [Dọn dẹp tài nguyên](./6-clean-resource/_index.md)
+2. [Cài đặt môi trường dev local](2-set-up-develop-environment)
+3. [Khởi tạo project](3-set-up-project)
+4. [Xây dựng web app](4-build-app)
+5. [Deploy App lên Amplify](5-deploy-amplify)
+6. [Dọn dẹp tài nguyên](6-clean-resource)
