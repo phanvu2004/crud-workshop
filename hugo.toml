@@ -2,12 +2,13 @@ theme = 'hugo-theme-learn'
 
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
 [params]
   themeVariant = "workshop"
   showVisitedLinks = true
-  disableLandingPageButton = true 
   disableBreadcrumb = false
   disableNextPrev = false
+  disableLandingPageButton = true
   
 [Languages]
 [Languages.en]
@@ -30,4 +31,4 @@ languageName = "Tiếng Việt"
 name = "<i class='fab fa-facebook'></i> AWS Study Group"
 identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj/"
-weight = 21
+weight = 20
