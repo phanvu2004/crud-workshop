@@ -16,10 +16,6 @@ AWS Amplify cung cấp một tập hợp các công cụ và dịch vụ tích h
 Trên . Với quy mô bài lab này, ta sẽ không cần phải cấu hình cho các dịch vụ trên mà Amplify sẽ làm điều đó thay cho chúng ta. 
 {{% notice info %}}
 Tuy nhiên, sau này khi quy mô ứng dụng của chúng ta lớn hơn , bạn có thể sẽ cần có những kiến thức về những dịch vụ này để  troubleshooting. Vì vậy, Bạn có thể thâm khảo thêm tài liệu về các dịch vụ trên bằng các links dưới đây:  
-* hello world  
-* hello worl 
-* hello worl  
-* hello world  
 {{% /notice %}}
 
 ### Angular
