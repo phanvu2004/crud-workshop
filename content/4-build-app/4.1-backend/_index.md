@@ -8,5 +8,5 @@ weight = 1
 
 Amplify đã giúp việc code backend đơn giản hơn rất nhiều so với code thủ công. Bây giờ, chúng ta sẽ cùng code phần backend nhé.
 ### Nội dung
-1. [authentication](4.1.1-authentication/_index.md)
-2. [data](4.1.2-data/_index.md)
+1. [authentication](4.1.1-authentication)
+2. [data](4.1.2-data)

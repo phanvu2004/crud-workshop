@@ -14,23 +14,23 @@ Nếu bạn chưa có tài khoản AWS, có thể tham khảo cách tạo tài k
 {{% /notice %}}
 
 ### Kích hoạt IAM Identity Center và AWS Organization.
-**Bước 1:** ĐăNG nhập vào tài khoản root AWS hoặc IAM có quyền admin.
+**Bước 1:** Đăng nhập vào tài khoản root AWS hoặc IAM có quyền admin.
 + Tìm kiếm IAM Identity Center trên thanh tìm kiếm
 + Click vào IAM Identity Center.
 
 ![Search IAM Identity Center](/images/2.set-up-dev-local/2.1-aws-local/pic2.png)
-**Bước 2:** click **Enable**
+**Bước 2:** Click **Enable**
 
 ![enable Iam](/images/2.set-up-dev-local/2.1-aws-local/pic1.png)
 
-**Bước 2:** click **Continue**
+**Bước 2:** Click **Continue**
 ![enable Iam](/images/2.set-up-dev-local/2.1-aws-local/pic3.png)
-**Bước 3:** Tạo Permission set.
+**Bước 3:** Tạo **Permission set**.
 + Sau khi được navigate vào dashboard của IAM Identity Center, click permission.
 
 ![click permission](/images/2.set-up-dev-local/2.1-aws-local/pic4.png)
-+ click **Create permission set**
-+ Chọn custom permission set.
++ Click **Create permission set**
++ Chọn **custom permission set**.
 + Tại mục AWS managed Policies, chọn quyền **AmplifyBackendDeployFullAccess**.
 ![click permission](/images/2.set-up-dev-local/2.1-aws-local/pic5.png)
 + Sau đó, đặt tên cho permission set và click **Next**.

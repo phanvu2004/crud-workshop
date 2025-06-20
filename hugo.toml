@@ -11,9 +11,19 @@ home = [ "HTML", "RSS", "JSON"]
   disableLandingPageButton = true
   
 [Languages]
+[Languages.vi]
+title = "Build và deploy 1 fullstack web app sử dụng amplify gen 2 và angular"
+weight = 1
+languageName = "Tiếng Việt"
+
+[[Languages.vi.menu.shortcuts]]
+name = "<i class='fab fa-facebook'></i> AWS Study Group"
+identifier = "AWS Study Group FB"
+url = "https://www.facebook.com/groups/awsstudygroupfcj/"
+weight = 10
 [Languages.en]
 title = "Build and deploy 1 fullstack web app using amplify gen 2 and angular"
-weight = 1
+weight = 2
 languageName = "English"
 
 [[Languages.en.menu.shortcuts]]
@@ -22,13 +32,3 @@ identifier = "AWS Study Group FB"
 url = "https://www.facebook.com/groups/awsstudygroupfcj/"
 weight = 20
 
-[Languages.vi]
-title = "Build và deploy 1 fullstack web app sử dụng amplify gen 2 và angular"
-weight = 2
-languageName = "Tiếng Việt"
-
-[[Languages.vi.menu.shortcuts]]
-name = "<i class='fab fa-facebook'></i> AWS Study Group"
-identifier = "AWS Study Group FB"
-url = "https://www.facebook.com/groups/awsstudygroupfcj/"
-weight = 20
